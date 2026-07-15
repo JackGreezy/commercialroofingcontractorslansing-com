@@ -1,0 +1,58 @@
+{
+  "services": [
+    "commercial-roof-inspection",
+    "commercial-roof-leak-repair",
+    "commercial-reroofing",
+    "preventive-maintenance-programs",
+    "storm-damage-roof-repair",
+    "commercial-roof-tear-off-replacement",
+    "roof-recover-overlay",
+    "tpo-single-ply-roofing",
+    "epdm-commercial-roofing",
+    "pvc-roofing",
+    "modified-bitumen-roofing",
+    "built-up-roofing",
+    "standing-seam-metal-roofing",
+    "metal-r-panel-roofing",
+    "silicone-roof-coatings",
+    "acrylic-roof-coatings",
+    "roof-drains-scuppers",
+    "edge-metal-coping-gutters",
+    "emergency-tarp-dry-in",
+    "insurance-documentation-support"
+  ],
+  "industries": [
+    "property-management-firms",
+    "manufacturing-operators",
+    "healthcare-systems",
+    "education-facilities",
+    "retail-chain-operators",
+    "government-public-sector",
+    "general-contractors",
+    "insurance-restoration"
+  ],
+  "roof-systems": [
+    "tpo-60-mil",
+    "tpo-80-mil",
+    "epdm-white",
+    "epdm-black",
+    "pvc-roof-systems",
+    "modified-bitumen-sbs",
+    "silicone-roof-coating",
+    "spray-polyurethane-foam"
+  ],
+  "project-types": [
+    "warehouse-roofing",
+    "automotive-manufacturing-roofing",
+    "distribution-center-roofing",
+    "office-complex-roofing",
+    "hospital-surgery-center-roofing",
+    "medical-office-building-roofing",
+    "higher-education-roofing",
+    "k12-school-roofing",
+    "government-municipal-roofing",
+    "big-box-retail-roofing",
+    "grocery-store-roofing",
+    "multifamily-apartment-roofing"
+  ]
+}

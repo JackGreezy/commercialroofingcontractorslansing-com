@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://commercialroofingcontractorslansing.com/sitemap.xml
+# AI: https://commercialroofingcontractorslansing.com/llms.txt

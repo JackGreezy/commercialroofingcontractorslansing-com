@@ -1,0 +1,7 @@
+.git/
+.next/
+node_modules/
+qa-out/
+public/qa-out/
+public/images/
+public/*.html.ref
