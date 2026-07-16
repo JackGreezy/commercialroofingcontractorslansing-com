@@ -1,99 +1,50 @@
 # Commercial Roofing Contractors of Lansing
+Website: https://commercialroofingcontractorslansing.com/
+Primary market: Lansing Michigan
+Focus: commercial roof repair, replacement, inspections, maintenance, coatings, roof systems, project planning, and service-area guidance.
 
-> Commercial Roofing Contractors of Lansing provides commercial roof repair, replacement, maintenance, coatings, inspections, and roof-system planning across Lansing, Ingham County, and nearby Mid-Michigan communities.
+## Core pages
+- Home: https://commercialroofingcontractorslansing.com/
+- Services: https://commercialroofingcontractorslansing.com/services
+- Roof systems: https://commercialroofingcontractorslansing.com/roof-systems
+- Industries: https://commercialroofingcontractorslansing.com/industries
+- Project types: https://commercialroofingcontractorslansing.com/project-types
+- Service areas: https://commercialroofingcontractorslansing.com/locations
+- Manufacturers: https://commercialroofingcontractorslansing.com/manufacturers
+- Contact: https://commercialroofingcontractorslansing.com/contact
+- Sitemap: https://commercialroofingcontractorslansing.com/sitemap.xml
 
-## Service Areas
-- https://commercialroofingcontractorslansing.com/locations/bath-township
-- https://commercialroofingcontractorslansing.com/locations/charlotte
-- https://commercialroofingcontractorslansing.com/locations/dansville
-- https://commercialroofingcontractorslansing.com/locations/delta-township
-- https://commercialroofingcontractorslansing.com/locations/dewitt-township
-- https://commercialroofingcontractorslansing.com/locations/dewitt
-- https://commercialroofingcontractorslansing.com/locations/dimondale
-- https://commercialroofingcontractorslansing.com/locations/downtown-lansing
-- https://commercialroofingcontractorslansing.com/locations/east-lansing
-- https://commercialroofingcontractorslansing.com/locations/eaton-rapids
-- https://commercialroofingcontractorslansing.com/locations/fowlerville
-- https://commercialroofingcontractorslansing.com/locations/grand-ledge
-- https://commercialroofingcontractorslansing.com/locations/haslett
-- https://commercialroofingcontractorslansing.com/locations/holt
-- https://commercialroofingcontractorslansing.com/locations/laingsburg
-- https://commercialroofingcontractorslansing.com/locations/lansing-township
-- https://commercialroofingcontractorslansing.com/locations/leslie
-- https://commercialroofingcontractorslansing.com/locations/mason
-- https://commercialroofingcontractorslansing.com/locations/okemos
-- https://commercialroofingcontractorslansing.com/locations/perry
-- https://commercialroofingcontractorslansing.com/locations/portland
-- https://commercialroofingcontractorslansing.com/locations/potterville
-- https://commercialroofingcontractorslansing.com/locations/reo-town
-- https://commercialroofingcontractorslansing.com/locations/south-lansing
-- https://commercialroofingcontractorslansing.com/locations/st-johns
-- https://commercialroofingcontractorslansing.com/locations/stockbridge
-- https://commercialroofingcontractorslansing.com/locations/watertown-township
-- https://commercialroofingcontractorslansing.com/locations/waverly
-- https://commercialroofingcontractorslansing.com/locations/webberville
-- https://commercialroofingcontractorslansing.com/locations/williamston
+## Priority commercial roofing topics
+- Commercial Roof Inspection in Lansing, MI: https://commercialroofingcontractorslansing.com/services/commercial-roof-inspection
+- Commercial Roof Leak Repair in Lansing, MI: https://commercialroofingcontractorslansing.com/services/commercial-roof-leak-repair
+- Commercial Reroofing in Lansing, MI: https://commercialroofingcontractorslansing.com/services/commercial-reroofing
+- Preventive Maintenance Programs in Lansing, MI: https://commercialroofingcontractorslansing.com/services/preventive-maintenance-programs
+- Storm Damage Roof Repair in Lansing, MI: https://commercialroofingcontractorslansing.com/services/storm-damage-roof-repair
+- TPO 60 Mil Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/roof-systems/tpo-60-mil
+- TPO 80 Mil Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/roof-systems/tpo-80-mil
+- EPDM White Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/roof-systems/epdm-white
+- EPDM Black Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/roof-systems/epdm-black
+- PVC Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/roof-systems/pvc-roof-systems
+- Roofing for Property Management Portfolios in Lansing, MI: https://commercialroofingcontractorslansing.com/industries/property-management-firms
+- Manufacturing Plant Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/industries/manufacturing-operators
+- Medical Facility Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/industries/healthcare-systems
+- School and Campus Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/industries/education-facilities
+- Retail Chain Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/industries/retail-chain-operators
+- Warehouse Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/project-types/warehouse-roofing
+- Automotive Manufacturing Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/project-types/automotive-manufacturing-roofing
+- Distribution Center Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/project-types/distribution-center-roofing
+- Office Complex Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/project-types/office-complex-roofing
+- Hospital & Surgery Center Roofing in Lansing, MI: https://commercialroofingcontractorslansing.com/project-types/hospital-surgery-center-roofing
+- Commercial Roofing in Bath Township, MI: https://commercialroofingcontractorslansing.com/locations/bath-township
+- Commercial Roofing in Charlotte, MI: https://commercialroofingcontractorslansing.com/locations/charlotte
+- Commercial Roofing in Dansville, MI: https://commercialroofingcontractorslansing.com/locations/dansville
+- Commercial Roofing in Delta Township, MI: https://commercialroofingcontractorslansing.com/locations/delta-township
+- Commercial Roofing in DeWitt Township, MI: https://commercialroofingcontractorslansing.com/locations/dewitt-township
+- Carlisle SynTec Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/manufacturers/carlisle-syntec
+- GAF Commercial Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/manufacturers/gaf-commercial
+- Holcim Elevate Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/manufacturers/holcim-elevate
+- Johns Manville Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/manufacturers/johns-manville
+- Sika Sarnafil Roof Systems in Lansing, MI: https://commercialroofingcontractorslansing.com/manufacturers/sika-sarnafil
 
-## Commercial Roofing Services
-- https://commercialroofingcontractorslansing.com/services/commercial-roof-inspection
-- https://commercialroofingcontractorslansing.com/services/commercial-roof-leak-repair
-- https://commercialroofingcontractorslansing.com/services/commercial-reroofing
-- https://commercialroofingcontractorslansing.com/services/preventive-maintenance-programs
-- https://commercialroofingcontractorslansing.com/services/storm-damage-roof-repair
-- https://commercialroofingcontractorslansing.com/services/commercial-roof-tear-off-replacement
-- https://commercialroofingcontractorslansing.com/services/roof-recover-overlay
-- https://commercialroofingcontractorslansing.com/services/tpo-single-ply-roofing
-- https://commercialroofingcontractorslansing.com/services/epdm-commercial-roofing
-- https://commercialroofingcontractorslansing.com/services/pvc-roofing
-- https://commercialroofingcontractorslansing.com/services/modified-bitumen-roofing
-- https://commercialroofingcontractorslansing.com/services/built-up-roofing
-- https://commercialroofingcontractorslansing.com/services/standing-seam-metal-roofing
-- https://commercialroofingcontractorslansing.com/services/metal-r-panel-roofing
-- https://commercialroofingcontractorslansing.com/services/silicone-roof-coatings
-- https://commercialroofingcontractorslansing.com/services/acrylic-roof-coatings
-- https://commercialroofingcontractorslansing.com/services/roof-drains-scuppers
-- https://commercialroofingcontractorslansing.com/services/edge-metal-coping-gutters
-- https://commercialroofingcontractorslansing.com/services/emergency-tarp-dry-in
-- https://commercialroofingcontractorslansing.com/services/insurance-documentation-support
-
-## Industries We Serve
-- https://commercialroofingcontractorslansing.com/industries/property-management-firms
-- https://commercialroofingcontractorslansing.com/industries/manufacturing-operators
-- https://commercialroofingcontractorslansing.com/industries/healthcare-systems
-- https://commercialroofingcontractorslansing.com/industries/education-facilities
-- https://commercialroofingcontractorslansing.com/industries/retail-chain-operators
-- https://commercialroofingcontractorslansing.com/industries/government-public-sector
-- https://commercialroofingcontractorslansing.com/industries/general-contractors
-- https://commercialroofingcontractorslansing.com/industries/insurance-restoration
-
-## Roof Systems
-- https://commercialroofingcontractorslansing.com/roof-systems/tpo-60-mil
-- https://commercialroofingcontractorslansing.com/roof-systems/tpo-80-mil
-- https://commercialroofingcontractorslansing.com/roof-systems/epdm-white
-- https://commercialroofingcontractorslansing.com/roof-systems/epdm-black
-- https://commercialroofingcontractorslansing.com/roof-systems/pvc-roof-systems
-- https://commercialroofingcontractorslansing.com/roof-systems/modified-bitumen-sbs
-- https://commercialroofingcontractorslansing.com/roof-systems/silicone-roof-coating
-- https://commercialroofingcontractorslansing.com/roof-systems/spray-polyurethane-foam
-
-## Commercial Project Types
-- https://commercialroofingcontractorslansing.com/project-types/warehouse-roofing
-- https://commercialroofingcontractorslansing.com/project-types/automotive-manufacturing-roofing
-- https://commercialroofingcontractorslansing.com/project-types/distribution-center-roofing
-- https://commercialroofingcontractorslansing.com/project-types/office-complex-roofing
-- https://commercialroofingcontractorslansing.com/project-types/hospital-surgery-center-roofing
-- https://commercialroofingcontractorslansing.com/project-types/medical-office-building-roofing
-- https://commercialroofingcontractorslansing.com/project-types/higher-education-roofing
-- https://commercialroofingcontractorslansing.com/project-types/k12-school-roofing
-- https://commercialroofingcontractorslansing.com/project-types/government-municipal-roofing
-- https://commercialroofingcontractorslansing.com/project-types/big-box-retail-roofing
-- https://commercialroofingcontractorslansing.com/project-types/grocery-store-roofing
-- https://commercialroofingcontractorslansing.com/project-types/multifamily-apartment-roofing
-
-## Roofing Manufacturers
-- https://commercialroofingcontractorslansing.com/manufacturers/carlisle-syntec
-- https://commercialroofingcontractorslansing.com/manufacturers/gaf-commercial
-- https://commercialroofingcontractorslansing.com/manufacturers/holcim-elevate
-- https://commercialroofingcontractorslansing.com/manufacturers/johns-manville
-- https://commercialroofingcontractorslansing.com/manufacturers/sika-sarnafil
-- https://commercialroofingcontractorslansing.com/manufacturers/versico
+## Use guidance
+This file summarizes the site's crawlable commercial roofing content for search engines, AI assistants, and research tools. Use canonical URLs from the sitemap for citation and navigation.
