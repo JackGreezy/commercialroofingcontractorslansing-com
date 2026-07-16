@@ -4,7 +4,7 @@ set -euo pipefail
 ROOT="/Users/jackgreenberg/Desktop/rank-and-rent"
 S="$ROOT/David/clones/scripts"
 PROJ="$ROOT/commercial-roofing/commercialroofingcontractorslansing-com"
-REFHOST="messer-com"
+REFHOST="mzshv-com"
 VOICE="$S/voice/commercial-roofing.json"
 CFG="$PROJ/home.config.json"
 MAP="$S/relabel-map-$REFHOST.json"
