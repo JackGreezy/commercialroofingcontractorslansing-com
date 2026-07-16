@@ -15,14 +15,37 @@
   "wordmark_l1": "Commercial Roofing Contractors",
   "wordmark_l2": "of Lansing",
   "nav": [
-    ["Services", "/services"],
-    ["Roof Systems", "/roof-systems"],
-    ["Industries", "/industries"],
-    ["Project Types", "/project-types"],
-    ["Service Areas", "/locations"],
-    ["Contact", "/contact"]
+    [
+      "Services",
+      "/services"
+    ],
+    [
+      "Roof Systems",
+      "/roof-systems"
+    ],
+    [
+      "Industries",
+      "/industries"
+    ],
+    [
+      "Project Types",
+      "/project-types"
+    ],
+    [
+      "Service Areas",
+      "/locations"
+    ],
+    [
+      "Contact",
+      "/contact"
+    ]
   ],
-  "cta": ["Request a Roof Assessment", "/contact"],
+  "cta": [
+    "Request a Roof Assessment",
+    "/contact"
+  ],
   "ref_host": "messer-com",
-  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json"
+  "voice": "/Users/jackgreenberg/Desktop/rank-and-rent/David/clones/scripts/voice/commercial-roofing.json",
+  "privacyEffectiveDate": "March 6, 2026",
+  "termsEffectiveDate": "June 13, 2026"
 }
