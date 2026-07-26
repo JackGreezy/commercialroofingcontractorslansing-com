@@ -247,11 +247,11 @@ def set_metadata(soup: BeautifulSoup, route: str):
     else:
         t = soup.new_tag("title"); t.string = title; soup.head.append(t)
     for tag in list(soup.head.find_all("meta")):
-        if tag.get("name") in {"description", "robots", "twitter:card", "twitter:title", "twitter:description", "twitter:image", "twitter:image:alt"}:
+        if tag.get("name") in {"description", "robots", "twitter:site", "twitter:creator", "twitter:card", "twitter:title", "twitter:description", "twitter:image", "twitter:image:alt"}:
             tag.decompose()
             continue
         prop = tag.get("property")
-        if prop and (str(prop).startswith("og:") or prop in {"article:modified_time"}):
+        if prop and (str(prop).startswith("og:") or str(prop).startswith("article:")):
             tag.decompose()
     upsert_meta(soup, "name", "description", desc)
     robots = "noindex, follow" if route == "/404" else "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"

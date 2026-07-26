@@ -1,7 +1,7 @@
 (function( $ ) {
     'use strict';
     var CCPA = {
-        ccpaOptedOut: false, 
+        ccpaOptedOut: false,
         ccpaOptOutConfirmationOpen: false,
         set: function() {
            this.setCheckboxState();
@@ -19,10 +19,10 @@
         setCheckboxState : function() {
             var cliConsent = {};
             var preferenceCookie = CLI_Cookie.read(CLI_PREFERNCE_COOKIE);
-            if( preferenceCookie !== null ) { 
+            if( preferenceCookie !== null ) {
                 cliConsent = CCPA.parseCookie(preferenceCookie);
                 if( typeof( cliConsent.ccpaOptout ) !== 'undefined') {
-                    
+
                     if( cliConsent.ccpaOptout === true ) {
                         jQuery('.wt-cli-ccpa-opt-out-checkbox').prop('checked',true);
                     }
@@ -30,10 +30,10 @@
                         jQuery('.wt-cli-ccpa-opt-out-checkbox').prop('checked',false);
                     }
                 }
-                
+
             }
         },
-        optOutCcpa: function() { 
+        optOutCcpa: function() {
             var preferenceCookie = CLI_Cookie.read(CLI_PREFERNCE_COOKIE);
             var cliConsent = {};
             if( preferenceCookie !== null ) {
@@ -59,13 +59,13 @@
             return cliConsent;
         },
         toggleCCPA: function() {
-            
+
         },
         checkAuthentication: function() {
-            
+
         },
         showCcpaOptOutConfirmBox: function() {
-            
+
             var css = '.cli-alert-dialog-buttons button {\
                 -webkit-box-flex: 1!important;\
                 -ms-flex: 1!important;\
@@ -178,7 +178,7 @@
                 document.body.removeChild(x),
                 document.body.classList.remove("cli-modal-open");
                 head.removeChild(style);
-                
+
             }),
             ccpaPrompt.appendChild(t),
             t.appendChild(n),
@@ -190,7 +190,7 @@
             r.appendChild(c),
             c.appendChild(b),
             c.appendChild(a),
-           
+
             head.appendChild(style);
             style.type = 'text/css';
             if (style.styleSheet){
@@ -206,17 +206,17 @@
         },
         disableOptoutCategories: function() {
             var optoutCats = document.querySelectorAll("[data-cli-ccpa-optout]");
-            optoutCats.forEach(function(optoutCheckbox) {    
+            optoutCats.forEach(function(optoutCheckbox) {
                 var checkbox_data_id = optoutCheckbox.getAttribute("data-id");
                 optoutCheckbox.checked = false;
                 if(checkbox_data_id) {
                     CLI_Cookie.set('cookielawinfo-'+checkbox_data_id,'no',CLI_ACCEPT_COOKIE_EXPIRE);
                 }
-            });   
+            });
         },
     }
     jQuery(document).ready(function() {
         CCPA.set();
     });
-    
+
 })( jQuery );
