@@ -273,7 +273,8 @@ html body ::selection{background:var(--rh-accent);color:var(--rh-button-text);}
 html body .rh-seo-dropdown-menu{border-top:4px solid var(--rh-accent)!important;}
 html body .rh-seo-dropdown-menu a:hover,html body .rh-seo-dropdown-menu a:focus{background:var(--rh-surface)!important;color:var(--rh-primary)!important;}
 @media(max-width:900px){html body header,html body #header,html body .site-header{background:var(--rh-primary)!important;}}
-</style><style>:root{--pvkgl--preset--font-size--large:36px;--pvkgl--preset--font-size--medium:20px;--pvkgl--preset--font-size--small:13px;--pvkgl--preset--font-size--x-large:42px;}</style></head>
+</style><style>:root{--pvkgl--preset--font-size--large:36px;--pvkgl--preset--font-size--medium:20px;--pvkgl--preset--font-size--small:13px;--pvkgl--preset--font-size--x-large:42px;}</style><link href="/website-taste.css" id="rr-website-taste-css" rel="stylesheet"/>
+</head>
 <body class="nndss-singular page-template-default page page-id-264 nndss-theme-usdigital wp-child-theme-usdigital-child fl-builder fl-builder-2-10-0-7 build-with-us fl-builder-breakpoint-default" data-rr-page="internal"><script id="rr-nav">(function(){var B=document.body;
 function set(open){B.classList.toggle('rr-nav-open',open);
 document.querySelectorAll('[data-rr-mobile]').forEach(function(d){
@@ -793,11 +794,38 @@ document.querySelectorAll('.uf-cus-sel').forEach(function(root){
 <div class="gform_heading">
 <h3 class="gform_title">Request a Roof Assessment</h3>
 <p class="gform_description"><strong>Commercial Roofing Contractors of Lansing</strong><br/><br/><a href="tel:5555556149">555-555-6149</a> · <a href="mailto:contact@commercialroofingcontractorslansing.com">contact@commercialroofingcontractorslansing.com</a></p>
-</div><form action="/api/submit" data-contact-form="" id="gform_1" method="post"><input name="timeline" type="hidden" value="Not sure yet"/><input name="page" type="hidden" value="/contact"/><input name="serviceType" type="hidden" value="Commercial Roofing"/>
-<div class="gform-body gform_body"><ul class="gform_fields top_label form_sublabel_below description_above validation_below" id="gform_fields_1"><li class="gfield gfield--type-text gf_left_half gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible" id="contact-field-1"><label class="gfield_label gform-field-label" for="contact-firstName">First name</label><div class="ginput_container ginput_container_text"><input aria-invalid="false" aria-required="true" class="medium" id="contact-firstName" name="firstName" placeholder="First name" required="" type="text" value=""/></div></li><li class="gfield gfield--type-text gf_left_half gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible" id="contact-field-2"><label class="gfield_label gform-field-label" for="contact-lastName">Last name</label><div class="ginput_container ginput_container_text"><input aria-invalid="false" aria-required="true" class="medium" id="contact-lastName" name="lastName" placeholder="Last name" required="" type="text" value=""/></div></li><li class="gfield gfield--type-text gf_left_half gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible" id="contact-field-3"><label class="gfield_label gform-field-label" for="contact-emailAddress">Email</label><div class="ginput_container ginput_container_text"><input aria-invalid="false" aria-required="true" class="medium" id="contact-emailAddress" name="emailAddress" placeholder="Email" required="" type="email" value=""/></div></li><li class="gfield gfield--type-text gf_left_half gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible" id="contact-field-4"><label class="gfield_label gform-field-label" for="contact-phoneNumber">Phone</label><div class="ginput_container ginput_container_text"><input aria-invalid="false" aria-required="true" class="medium" id="contact-phoneNumber" name="phoneNumber" placeholder="Phone" required="" type="tel" value=""/></div></li><li class="gfield gfield--type-text gf_left_half gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible" id="contact-field-5"><label class="gfield_label gform-field-label" for="contact-roofingNeed">Roofing service needed</label><div class="ginput_container ginput_container_text"><input aria-invalid="false" aria-required="true" class="medium" id="contact-roofingNeed" name="roofingNeed" placeholder="Roofing service needed" type="text" value=""/></div></li><li class="gfield gfield--type-text gf_left_half gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible" id="contact-field-6"><label class="gfield_label gform-field-label" for="contact-propertyAddress">Property address or service area</label><div class="ginput_container ginput_container_text"><input aria-invalid="false" aria-required="true" class="medium" id="contact-propertyAddress" name="propertyAddress" placeholder="Property address or service area" type="text" value=""/></div></li><li class="gfield gfield--type-text gf_left_half gfield_contains_required field_sublabel_below gfield--no-description field_description_above field_validation_below gfield_visibility_visible" id="contact-field-7"><label class="gfield_label gform-field-label" for="contact-projectDetails">Tell us about the roof, issue, and schedule</label><div class="ginput_container ginput_container_text"><textarea class="medium" id="contact-projectDetails" name="projectDetails" placeholder="Tell us about the roof, issue, and schedule" rows="4"></textarea></div></li></ul></div>
-<div class="gform-footer gform_footer top_label"> <input class="gform_button button" id="gform_submit_button_1" type="submit" value="Request a Roof Assessment"/>
-</div>
-<p class="akismet-fields-container" data-prefix="ak_" style="display: none !important;"><label>Δ<textarea cols="45" maxlength="100" name="ak_hp_textarea" rows="8"></textarea></label></p><input aria-hidden="true" autocomplete="off" name="_company" style="position:absolute;left:-10000px;top:auto;width:1px;height:1px;overflow:hidden" tabindex="-1" type="text"/></form>
+</div><form action="/api/submit" class="rr-contact-form" data-contact-form method="post">
+<input name="page" type="hidden" value="/contact"/>
+<input name="serviceType" type="hidden" value="Commercial Roofing"/>
+<input aria-hidden="true" autocomplete="off" class="hp-field" name="_company" tabindex="-1" type="text"/>
+<label class="rr-contact-field">Name
+<input autocomplete="name" name="name" placeholder="Your name" required type="text"/>
+</label>
+<label class="rr-contact-field">Phone
+<input autocomplete="tel" name="phone" placeholder="Phone number" required type="tel"/>
+</label>
+<label class="rr-contact-field">Email
+<input autocomplete="email" name="email" placeholder="Email address" required type="email"/>
+</label>
+<label class="rr-contact-field">Property Address
+<input autocomplete="street-address" name="address" placeholder="Building address or roof location" required type="text"/>
+</label>
+<label class="rr-contact-field">Timeline
+<select name="timeline" required>
+<option value="">Select a timeline</option>
+<option>Emergency - active leak</option>
+<option>Within 30 days</option>
+<option>1-3 months</option>
+<option>3-6 months</option>
+<option>Planning / budgeting</option>
+</select>
+</label>
+<label class="rr-contact-field rr-contact-field--full">Message
+<textarea name="notes" placeholder="Tell us about the roof, issue, access, and schedule" required rows="7"></textarea>
+</label>
+<button class="rr-contact-submit" type="submit">Send Roof Request</button>
+<p aria-live="polite" class="form-status" data-form-status role="status"></p>
+</form>
 </div>
 </div>
 <div class="sxs-item image">
@@ -934,4 +962,5 @@ h1,h2,h3,[data-rr-band] h4,[data-rr-band] h5,[class*="Hero_"] h1,[class*="Hero_"
     });
   });
 })();
-</script></body></html>
+</script><script defer id="rr-website-taste-js" src="/website-taste.js"></script>
+</body></html>
