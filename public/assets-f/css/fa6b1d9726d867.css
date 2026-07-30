@@ -120,15 +120,15 @@
     }
     .cli-col-8
     {
-    max-width:100% !important;
-    width:100% !important;
-    flex: 100% !important;
-    -ms-flex: 100% !important;
+        max-width:100% !important;
+        width:100% !important;
+        flex: 100% !important;
+        -ms-flex: 100% !important;
     }
     .cli-accordion-plusminus{
-    float: right;
-    font-size:22px;
-    line-height: 22px;
+        float: right;
+        font-size:22px;
+        line-height: 22px;
     }
     .cli-plugin-button{
         margin:10px;
