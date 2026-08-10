@@ -422,8 +422,20 @@
     heading.dataset.rrFaqReady = "true";
   }
 
+  const roofRequest = new URLSearchParams(location.search).get("request");
+  const roofRequestValues = {
+    emergency: "Emergency Roof Leak Repair",
+    inspection: "Flat Roof Replacement Inspection",
+    repair: "Commercial Roof Repair",
+    coating: "Roof Coating Or Restoration",
+    replacement: "Commercial Roof Replacement",
+    service: "Roof Service Agreement"
+  };
+
   for (const form of document.querySelectorAll("[data-contact-form]")) {
     if (form.dataset.rrAsyncReady === "true") continue;
+    const serviceType = form.querySelector("select[name='serviceType']");
+    if (serviceType && roofRequestValues[roofRequest]) serviceType.value = roofRequestValues[roofRequest];
     const status = form.querySelector("[data-form-status]");
     form.addEventListener("submit", async (event) => {
       event.preventDefault();
@@ -438,7 +450,7 @@
         form.reset();
         if (status) status.textContent = "Thanks. We received your roof request and will follow up shortly.";
       } catch (error) {
-        if (status) status.textContent = error.message || "Unable to send the request. Please call us directly.";
+        if (status) status.textContent = error.message || "Unable to send the request. Please try again shortly.";
       } finally {
         if (submit) submit.disabled = false;
       }

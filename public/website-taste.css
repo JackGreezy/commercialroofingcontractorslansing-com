@@ -1369,3 +1369,149 @@ body :where(
     max-width: none !important;
   }
 }
+
+/* Lansing lead journey, using the site's coal, white, and safety-gold system. */
+.lansing-shell {
+  box-sizing: border-box;
+  margin: 0 auto;
+  max-width: 1180px;
+  padding-left: 28px;
+  padding-right: 28px;
+  width: 100%;
+}
+
+.lansing-hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 28px;
+}
+
+.lansing-hero-actions a,
+.lansing-button {
+  align-items: center;
+  background: #ffaa4d;
+  border: 2px solid #ffaa4d;
+  color: #171b1d !important;
+  display: inline-flex;
+  font-size: 14px;
+  font-weight: 800;
+  justify-content: center;
+  letter-spacing: .06em;
+  min-height: 50px;
+  padding: 13px 20px;
+  text-decoration: none !important;
+  text-transform: uppercase;
+}
+
+.lansing-hero-actions a:last-child {
+  background: transparent;
+  color: #fff !important;
+}
+
+.lansing-decision-rail {
+  background: #20262a;
+  color: #fff;
+  padding: 0 0 30px;
+}
+
+.lansing-decision-rail .lansing-shell {
+  display: grid;
+  gap: 1px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  transform: translateY(-28px);
+}
+
+.lansing-decision-rail a {
+  background: #2c3337;
+  border-top: 4px solid #ffaa4d;
+  color: #fff !important;
+  display: grid;
+  gap: 9px;
+  min-height: 195px;
+  padding: 27px 24px;
+  text-decoration: none !important;
+  transition: background .2s ease, transform .2s ease;
+}
+
+.lansing-decision-rail a:hover { background: #384044; transform: translateY(-5px); }
+.lansing-decision-rail span { color: #ffaa4d; font-size: 11px; font-weight: 800; letter-spacing: .12em; text-transform: uppercase; }
+.lansing-decision-rail strong { font-size: 22px; line-height: 1.1; }
+.lansing-decision-rail small { color: rgba(255,255,255,.72); font-size: 14px; line-height: 1.5; }
+
+.lansing-inspection-story {
+  background: #f1f3f4;
+  padding: 94px 0;
+}
+
+.lansing-story-grid {
+  align-items: center;
+  display: grid;
+  gap: clamp(42px, 7vw, 90px);
+  grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+}
+
+.lansing-story-image {
+  box-shadow: 22px 22px 0 #ffaa4d;
+  overflow: hidden;
+}
+
+.lansing-story-image img { display: block; height: 520px; object-fit: cover; width: 100%; }
+.lansing-kicker { color: #a65b00; font-size: 12px; font-weight: 900; letter-spacing: .14em; margin: 0 0 12px; text-transform: uppercase; }
+.lansing-story-copy h2,
+.lansing-service-story h2 { color: #20262a; font-size: clamp(36px, 4vw, 60px); line-height: 1.03; margin: 0 0 24px; }
+.lansing-story-copy > p,
+.lansing-service-story p { color: #3e484d; font-size: 18px; line-height: 1.7; }
+.lansing-story-copy li { color: #20262a; font-size: 16px; line-height: 1.6; margin-bottom: 8px; }
+.lansing-actions { align-items: center; display: flex; flex-wrap: wrap; gap: 20px; margin-top: 28px; }
+.lansing-text-link { border-bottom: 2px solid #ffaa4d; color: #20262a !important; font-size: 13px; font-weight: 800; letter-spacing: .06em; padding-bottom: 4px; text-decoration: none !important; text-transform: uppercase; }
+
+.lansing-service-story {
+  background: #fff;
+  padding: 96px 0;
+}
+
+.lansing-service-story .lansing-shell > div:first-child { max-width: 800px; }
+.lansing-service-cards { display: grid; gap: 20px; grid-template-columns: repeat(3, minmax(0, 1fr)); margin: 44px 0 22px; }
+.lansing-service-cards a { border-top: 5px solid #ffaa4d; box-shadow: 0 12px 32px rgba(20,27,31,.1); color: #20262a !important; display: grid; gap: 12px; min-height: 190px; padding: 28px; text-decoration: none !important; }
+.lansing-service-cards strong { font-size: 23px; line-height: 1.1; }
+.lansing-service-cards span { color: #526066; font-size: 16px; line-height: 1.55; }
+
+.lansing-sticky-contact {
+  display: none;
+}
+
+@media (max-width: 800px) {
+  .lansing-decision-rail { padding-top: 20px; }
+  .lansing-decision-rail .lansing-shell { grid-template-columns: 1fr; transform: none; }
+  .lansing-decision-rail a { min-height: 0; }
+  .lansing-story-grid,
+  .lansing-service-cards { grid-template-columns: 1fr; }
+  .lansing-story-image { box-shadow: 12px 12px 0 #ffaa4d; }
+  .lansing-story-image img { height: 320px; }
+  .lansing-inspection-story,
+  .lansing-service-story { padding: 66px 0; }
+  .lansing-sticky-contact {
+    background: #ffaa4d;
+    bottom: calc(16px + env(safe-area-inset-bottom));
+    box-shadow: 0 12px 28px rgba(0,0,0,.3);
+    color: #171b1d !important;
+    display: inline-flex;
+    font-size: 12px;
+    font-weight: 900;
+    letter-spacing: .06em;
+    padding: 14px 17px;
+    position: fixed;
+    right: 16px;
+    text-decoration: none !important;
+    text-transform: uppercase;
+    z-index: 12000;
+  }
+}
+
+@media (max-width: 520px) {
+  .lansing-shell { padding-left: 20px; padding-right: 20px; }
+  .lansing-hero-actions a,
+  .lansing-button { width: 100%; }
+  .lansing-actions { align-items: stretch; flex-direction: column; }
+}
