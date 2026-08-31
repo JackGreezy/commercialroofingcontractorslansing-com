@@ -1,0 +1,320 @@
+{
+  "rewrites": [],
+  "redirects": [
+    {
+      "source": "/locations/:path*",
+      "destination": "/service-areas/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/locations",
+      "destination": "/service-areas",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bath-township",
+      "destination": "/service-areas/bath-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/bath-township/",
+      "destination": "/service-areas/bath-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/charlotte",
+      "destination": "/service-areas/charlotte",
+      "permanent": true
+    },
+    {
+      "source": "/locations/charlotte/",
+      "destination": "/service-areas/charlotte",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dansville",
+      "destination": "/service-areas/dansville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dansville/",
+      "destination": "/service-areas/dansville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/delta-township",
+      "destination": "/service-areas/delta-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/delta-township/",
+      "destination": "/service-areas/delta-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dewitt",
+      "destination": "/service-areas/dewitt",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dewitt/",
+      "destination": "/service-areas/dewitt",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dewitt-township",
+      "destination": "/service-areas/dewitt-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dewitt-township/",
+      "destination": "/service-areas/dewitt-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dimondale",
+      "destination": "/service-areas/dimondale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/dimondale/",
+      "destination": "/service-areas/dimondale",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-lansing",
+      "destination": "/service-areas/downtown-lansing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/downtown-lansing/",
+      "destination": "/service-areas/downtown-lansing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-lansing",
+      "destination": "/service-areas/east-lansing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/east-lansing/",
+      "destination": "/service-areas/east-lansing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/eaton-rapids",
+      "destination": "/service-areas/eaton-rapids",
+      "permanent": true
+    },
+    {
+      "source": "/locations/eaton-rapids/",
+      "destination": "/service-areas/eaton-rapids",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fowlerville",
+      "destination": "/service-areas/fowlerville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/fowlerville/",
+      "destination": "/service-areas/fowlerville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grand-ledge",
+      "destination": "/service-areas/grand-ledge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/grand-ledge/",
+      "destination": "/service-areas/grand-ledge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/haslett",
+      "destination": "/service-areas/haslett",
+      "permanent": true
+    },
+    {
+      "source": "/locations/haslett/",
+      "destination": "/service-areas/haslett",
+      "permanent": true
+    },
+    {
+      "source": "/locations/holt",
+      "destination": "/service-areas/holt",
+      "permanent": true
+    },
+    {
+      "source": "/locations/holt/",
+      "destination": "/service-areas/holt",
+      "permanent": true
+    },
+    {
+      "source": "/locations/laingsburg",
+      "destination": "/service-areas/laingsburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/laingsburg/",
+      "destination": "/service-areas/laingsburg",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lansing-township",
+      "destination": "/service-areas/lansing-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/lansing-township/",
+      "destination": "/service-areas/lansing-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leslie",
+      "destination": "/service-areas/leslie",
+      "permanent": true
+    },
+    {
+      "source": "/locations/leslie/",
+      "destination": "/service-areas/leslie",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mason",
+      "destination": "/service-areas/mason",
+      "permanent": true
+    },
+    {
+      "source": "/locations/mason/",
+      "destination": "/service-areas/mason",
+      "permanent": true
+    },
+    {
+      "source": "/locations/okemos",
+      "destination": "/service-areas/okemos",
+      "permanent": true
+    },
+    {
+      "source": "/locations/okemos/",
+      "destination": "/service-areas/okemos",
+      "permanent": true
+    },
+    {
+      "source": "/locations/perry",
+      "destination": "/service-areas/perry",
+      "permanent": true
+    },
+    {
+      "source": "/locations/perry/",
+      "destination": "/service-areas/perry",
+      "permanent": true
+    },
+    {
+      "source": "/locations/portland",
+      "destination": "/service-areas/portland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/portland/",
+      "destination": "/service-areas/portland",
+      "permanent": true
+    },
+    {
+      "source": "/locations/potterville",
+      "destination": "/service-areas/potterville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/potterville/",
+      "destination": "/service-areas/potterville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reo-town",
+      "destination": "/service-areas/reo-town",
+      "permanent": true
+    },
+    {
+      "source": "/locations/reo-town/",
+      "destination": "/service-areas/reo-town",
+      "permanent": true
+    },
+    {
+      "source": "/locations/south-lansing",
+      "destination": "/service-areas/south-lansing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/south-lansing/",
+      "destination": "/service-areas/south-lansing",
+      "permanent": true
+    },
+    {
+      "source": "/locations/st-johns",
+      "destination": "/service-areas/st-johns",
+      "permanent": true
+    },
+    {
+      "source": "/locations/st-johns/",
+      "destination": "/service-areas/st-johns",
+      "permanent": true
+    },
+    {
+      "source": "/locations/stockbridge",
+      "destination": "/service-areas/stockbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/stockbridge/",
+      "destination": "/service-areas/stockbridge",
+      "permanent": true
+    },
+    {
+      "source": "/locations/watertown-township",
+      "destination": "/service-areas/watertown-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/watertown-township/",
+      "destination": "/service-areas/watertown-township",
+      "permanent": true
+    },
+    {
+      "source": "/locations/waverly",
+      "destination": "/service-areas/waverly",
+      "permanent": true
+    },
+    {
+      "source": "/locations/waverly/",
+      "destination": "/service-areas/waverly",
+      "permanent": true
+    },
+    {
+      "source": "/locations/webberville",
+      "destination": "/service-areas/webberville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/webberville/",
+      "destination": "/service-areas/webberville",
+      "permanent": true
+    },
+    {
+      "source": "/locations/williamston",
+      "destination": "/service-areas/williamston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/williamston/",
+      "destination": "/service-areas/williamston",
+      "permanent": true
+    },
+    {
+      "source": "/locations/",
+      "destination": "/service-areas",
+      "permanent": true
+    }
+  ]
+}

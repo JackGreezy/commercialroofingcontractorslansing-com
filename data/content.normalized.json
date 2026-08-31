@@ -10,7 +10,7 @@
  "taxonomies": {
   "locations": {
    "title": "Service Areas",
-   "route": "/locations",
+   "route": "/service-areas",
    "items": [
     {
      "slug": "bath-township",
@@ -26,23 +26,23 @@
      "related": [
       {
        "label": "Roofing for Webberville's Small Industrial Park and Grand River Corridor Buildings",
-       "href": "/locations/webberville"
+       "href": "/service-areas/webberville"
       },
       {
        "label": "Williamston's Grand River Avenue Retail Sits Close to Its Manufacturing Edge",
-       "href": "/locations/williamston"
+       "href": "/service-areas/williamston"
       },
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Delta Township Runs Two Different Roofs: Assembly-Plant Membrane and Big-Box Retail",
-       "href": "/locations/delta-township"
+       "href": "/service-areas/delta-township"
       },
       {
        "label": "Tracing a Lansing Roof Leak Back to Its Actual Source",
@@ -88,23 +88,23 @@
      "related": [
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "What Laingsburg's Small Retail and Ag-Service Building Owners Should Expect From a Roof Inspection",
-       "href": "/locations/laingsburg"
+       "href": "/service-areas/laingsburg"
       },
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "When a Lansing Roof Stops Being a Repair and Becomes a Replacement",
@@ -150,23 +150,23 @@
      "related": [
       {
        "label": "Eaton Rapids Still Roofs Like the Island City It Was Built To Be",
-       "href": "/locations/eaton-rapids"
+       "href": "/service-areas/eaton-rapids"
       },
       {
        "label": "Fowlerville's Industrial Park Roofs Answer to the Fairgrounds Calendar",
-       "href": "/locations/fowlerville"
+       "href": "/service-areas/fowlerville"
       },
       {
        "label": "Grand Ledge Splits Between Riverside Manufacturing and a Historic Main Street",
-       "href": "/locations/grand-ledge"
+       "href": "/service-areas/grand-ledge"
       },
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "Keeping Drains and Scuppers Working Through a Lansing Winter",
@@ -216,23 +216,23 @@
      "related": [
       {
        "label": "US-127 Turned DeWitt Township Into a Distribution Corridor, and the Roofs Show It",
-       "href": "/locations/dewitt-township"
+       "href": "/service-areas/dewitt-township"
       },
       {
        "label": "DeWitt's Downtown Storefronts Run Smaller Jobs, Not Simpler Ones",
-       "href": "/locations/dewitt"
+       "href": "/service-areas/dewitt"
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "State Office Towers and Century-Old Downtown Roofs Answer to Different Rules",
-       "href": "/locations/downtown-lansing"
+       "href": "/service-areas/downtown-lansing"
       },
       {
        "label": "MSU Sets the Roofing Calendar for East Lansing's Grand River Corridor",
-       "href": "/locations/east-lansing"
+       "href": "/service-areas/east-lansing"
       },
       {
        "label": "TPO Roofing for Lansing's State and Auto-Plant Buildings",
@@ -282,23 +282,23 @@
      "related": [
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Delta Township Runs Two Different Roofs: Assembly-Plant Membrane and Big-Box Retail",
-       "href": "/locations/delta-township"
+       "href": "/service-areas/delta-township"
       },
       {
        "label": "DeWitt's Downtown Storefronts Run Smaller Jobs, Not Simpler Ones",
-       "href": "/locations/dewitt"
+       "href": "/service-areas/dewitt"
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "Repairing Lansing Roofs After Wind, Ice, and Derecho Damage",
@@ -348,23 +348,23 @@
      "related": [
       {
        "label": "What Laingsburg's Small Retail and Ag-Service Building Owners Should Expect From a Roof Inspection",
-       "href": "/locations/laingsburg"
+       "href": "/service-areas/laingsburg"
       },
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Meridian Mall Retail and Okemos Medical Office Roofs Have Different Tolerances",
-       "href": "/locations/okemos"
+       "href": "/service-areas/okemos"
       },
       {
        "label": "TPO Roofing for Lansing's State and Auto-Plant Buildings",
@@ -414,23 +414,23 @@
      "related": [
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Roofing for Stockbridge's Village Retail and Farm Equipment Buildings",
-       "href": "/locations/stockbridge"
+       "href": "/service-areas/stockbridge"
       },
       {
        "label": "Roofing for the Trucking and Small Industrial Buildings Around the I-96/I-69 Interchange",
-       "href": "/locations/watertown-township"
+       "href": "/service-areas/watertown-township"
       },
       {
        "label": "Waverly Road Retail and Office Roofs West of Downtown Lansing",
-       "href": "/locations/waverly"
+       "href": "/service-areas/waverly"
       },
       {
        "label": "Standing Seam Metal for Distribution and Plant Buildings",
@@ -480,23 +480,23 @@
      "related": [
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Meridian Mall Retail and Okemos Medical Office Roofs Have Different Tolerances",
-       "href": "/locations/okemos"
+       "href": "/service-areas/okemos"
       },
       {
        "label": "Roofing Around Perry's I-69 Exit and Farm-Service Buildings",
-       "href": "/locations/perry"
+       "href": "/service-areas/perry"
       },
       {
        "label": "Portland's I-96 Manufacturers and River-Confluence Downtown Need Different Roof Plans",
-       "href": "/locations/portland"
+       "href": "/service-areas/portland"
       },
       {
        "label": "Stopping Water Before It Costs More Than the Roof Damage Itself",
@@ -546,23 +546,23 @@
      "related": [
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Roofing for Stockbridge's Village Retail and Farm Equipment Buildings",
-       "href": "/locations/stockbridge"
+       "href": "/service-areas/stockbridge"
       },
       {
        "label": "When a Lansing Roof Stops Being a Repair and Becomes a Replacement",
@@ -608,23 +608,23 @@
      "related": [
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Roofing for Stockbridge's Village Retail and Farm Equipment Buildings",
-       "href": "/locations/stockbridge"
+       "href": "/service-areas/stockbridge"
       },
       {
        "label": "A Maintenance Schedule That Matches Lansing's Freeze and Storm Calendar",
@@ -670,23 +670,23 @@
      "related": [
       {
        "label": "State Office Towers and Century-Old Downtown Roofs Answer to Different Rules",
-       "href": "/locations/downtown-lansing"
+       "href": "/service-areas/downtown-lansing"
       },
       {
        "label": "MSU Sets the Roofing Calendar for East Lansing's Grand River Corridor",
-       "href": "/locations/east-lansing"
+       "href": "/service-areas/east-lansing"
       },
       {
        "label": "Eaton Rapids Still Roofs Like the Island City It Was Built To Be",
-       "href": "/locations/eaton-rapids"
+       "href": "/service-areas/eaton-rapids"
       },
       {
        "label": "Grand Ledge Splits Between Riverside Manufacturing and a Historic Main Street",
-       "href": "/locations/grand-ledge"
+       "href": "/service-areas/grand-ledge"
       },
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Edge Metal and Coping Are Where Most Lansing Roof Failures Actually Start",
@@ -736,23 +736,23 @@
      "related": [
       {
        "label": "US-127 Turned DeWitt Township Into a Distribution Corridor, and the Roofs Show It",
-       "href": "/locations/dewitt-township"
+       "href": "/service-areas/dewitt-township"
       },
       {
        "label": "DeWitt's Downtown Storefronts Run Smaller Jobs, Not Simpler Ones",
-       "href": "/locations/dewitt"
+       "href": "/service-areas/dewitt"
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "State Office Towers and Century-Old Downtown Roofs Answer to Different Rules",
-       "href": "/locations/downtown-lansing"
+       "href": "/service-areas/downtown-lansing"
       },
       {
        "label": "MSU Sets the Roofing Calendar for East Lansing's Grand River Corridor",
-       "href": "/locations/east-lansing"
+       "href": "/service-areas/east-lansing"
       },
       {
        "label": "PVC Roofing Where Exposure, Not Price, Should Drive the Decision",
@@ -802,23 +802,23 @@
      "related": [
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Delta Township Runs Two Different Roofs: Assembly-Plant Membrane and Big-Box Retail",
-       "href": "/locations/delta-township"
+       "href": "/service-areas/delta-township"
       },
       {
        "label": "US-127 Turned DeWitt Township Into a Distribution Corridor, and the Roofs Show It",
-       "href": "/locations/dewitt-township"
+       "href": "/service-areas/dewitt-township"
       },
       {
        "label": "DeWitt's Downtown Storefronts Run Smaller Jobs, Not Simpler Ones",
-       "href": "/locations/dewitt"
+       "href": "/service-areas/dewitt"
       },
       {
        "label": "Tracing a Lansing Roof Leak Back to Its Actual Source",
@@ -864,23 +864,23 @@
      "related": [
       {
        "label": "Roofing for Webberville's Small Industrial Park and Grand River Corridor Buildings",
-       "href": "/locations/webberville"
+       "href": "/service-areas/webberville"
       },
       {
        "label": "Williamston's Grand River Avenue Retail Sits Close to Its Manufacturing Edge",
-       "href": "/locations/williamston"
+       "href": "/service-areas/williamston"
       },
       {
        "label": "Roofing for Bath Township's Growing Retail and MSU-Adjacent Buildings",
-       "href": "/locations/bath-township"
+       "href": "/service-areas/bath-township"
       },
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Tracing a Lansing Roof Leak Back to Its Actual Source",
@@ -926,23 +926,23 @@
      "related": [
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Meridian Mall Retail and Okemos Medical Office Roofs Have Different Tolerances",
-       "href": "/locations/okemos"
+       "href": "/service-areas/okemos"
       },
       {
        "label": "Roofing Around Perry's I-69 Exit and Farm-Service Buildings",
-       "href": "/locations/perry"
+       "href": "/service-areas/perry"
       },
       {
        "label": "Portland's I-96 Manufacturers and River-Confluence Downtown Need Different Roof Plans",
-       "href": "/locations/portland"
+       "href": "/service-areas/portland"
       },
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "Acrylic Coatings: The Right Tool When Ponding Isn't the Problem",
@@ -988,23 +988,23 @@
      "related": [
       {
        "label": "US-127 Turned DeWitt Township Into a Distribution Corridor, and the Roofs Show It",
-       "href": "/locations/dewitt-township"
+       "href": "/service-areas/dewitt-township"
       },
       {
        "label": "DeWitt's Downtown Storefronts Run Smaller Jobs, Not Simpler Ones",
-       "href": "/locations/dewitt"
+       "href": "/service-areas/dewitt"
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "State Office Towers and Century-Old Downtown Roofs Answer to Different Rules",
-       "href": "/locations/downtown-lansing"
+       "href": "/service-areas/downtown-lansing"
       },
       {
        "label": "MSU Sets the Roofing Calendar for East Lansing's Grand River Corridor",
-       "href": "/locations/east-lansing"
+       "href": "/service-areas/east-lansing"
       },
       {
        "label": "EPDM Roofs on Lansing's Older Industrial and Institutional Buildings",
@@ -1054,23 +1054,23 @@
      "related": [
       {
        "label": "Roofing for Webberville's Small Industrial Park and Grand River Corridor Buildings",
-       "href": "/locations/webberville"
+       "href": "/service-areas/webberville"
       },
       {
        "label": "Williamston's Grand River Avenue Retail Sits Close to Its Manufacturing Edge",
-       "href": "/locations/williamston"
+       "href": "/service-areas/williamston"
       },
       {
        "label": "Roofing for Bath Township's Growing Retail and MSU-Adjacent Buildings",
-       "href": "/locations/bath-township"
+       "href": "/service-areas/bath-township"
       },
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "EPDM Roofs on Lansing's Older Industrial and Institutional Buildings",
@@ -1120,23 +1120,23 @@
      "related": [
       {
        "label": "Fowlerville's Industrial Park Roofs Answer to the Fairgrounds Calendar",
-       "href": "/locations/fowlerville"
+       "href": "/service-areas/fowlerville"
       },
       {
        "label": "Grand Ledge Splits Between Riverside Manufacturing and a Historic Main Street",
-       "href": "/locations/grand-ledge"
+       "href": "/service-areas/grand-ledge"
       },
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "What Laingsburg's Small Retail and Ag-Service Building Owners Should Expect From a Roof Inspection",
-       "href": "/locations/laingsburg"
+       "href": "/service-areas/laingsburg"
       },
       {
        "label": "Silicone Coatings as a Capital-Budget Alternative to Replacement",
@@ -1186,23 +1186,23 @@
      "related": [
       {
        "label": "Williamston's Grand River Avenue Retail Sits Close to Its Manufacturing Edge",
-       "href": "/locations/williamston"
+       "href": "/service-areas/williamston"
       },
       {
        "label": "Roofing for Bath Township's Growing Retail and MSU-Adjacent Buildings",
-       "href": "/locations/bath-township"
+       "href": "/service-areas/bath-township"
       },
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Delta Township Runs Two Different Roofs: Assembly-Plant Membrane and Big-Box Retail",
-       "href": "/locations/delta-township"
+       "href": "/service-areas/delta-township"
       },
       {
        "label": "Silicone Coatings as a Capital-Budget Alternative to Replacement",
@@ -1252,23 +1252,23 @@
      "related": [
       {
        "label": "DeWitt's Downtown Storefronts Run Smaller Jobs, Not Simpler Ones",
-       "href": "/locations/dewitt"
+       "href": "/service-areas/dewitt"
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "State Office Towers and Century-Old Downtown Roofs Answer to Different Rules",
-       "href": "/locations/downtown-lansing"
+       "href": "/service-areas/downtown-lansing"
       },
       {
        "label": "MSU Sets the Roofing Calendar for East Lansing's Grand River Corridor",
-       "href": "/locations/east-lansing"
+       "href": "/service-areas/east-lansing"
       },
       {
        "label": "Eaton Rapids Still Roofs Like the Island City It Was Built To Be",
-       "href": "/locations/eaton-rapids"
+       "href": "/service-areas/eaton-rapids"
       },
       {
        "label": "R-Panel Metal for Warehouses and Light Manufacturing",
@@ -1318,23 +1318,23 @@
      "related": [
       {
        "label": "What Laingsburg's Small Retail and Ag-Service Building Owners Should Expect From a Roof Inspection",
-       "href": "/locations/laingsburg"
+       "href": "/service-areas/laingsburg"
       },
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Meridian Mall Retail and Okemos Medical Office Roofs Have Different Tolerances",
-       "href": "/locations/okemos"
+       "href": "/service-areas/okemos"
       },
       {
        "label": "Keeping Drains and Scuppers Working Through a Lansing Winter",
@@ -1384,23 +1384,23 @@
      "related": [
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "What Laingsburg's Small Retail and Ag-Service Building Owners Should Expect From a Roof Inspection",
-       "href": "/locations/laingsburg"
+       "href": "/service-areas/laingsburg"
       },
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "What a Roof Recover Can Hide — and When It Shouldn't",
@@ -1450,23 +1450,23 @@
      "related": [
       {
        "label": "Roofing for Bath Township's Growing Retail and MSU-Adjacent Buildings",
-       "href": "/locations/bath-township"
+       "href": "/service-areas/bath-township"
       },
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Delta Township Runs Two Different Roofs: Assembly-Plant Membrane and Big-Box Retail",
-       "href": "/locations/delta-township"
+       "href": "/service-areas/delta-township"
       },
       {
        "label": "US-127 Turned DeWitt Township Into a Distribution Corridor, and the Roofs Show It",
-       "href": "/locations/dewitt-township"
+       "href": "/service-areas/dewitt-township"
       },
       {
        "label": "Legacy Gravel Roofs Still in Service Downtown and on Campus",
@@ -1516,23 +1516,23 @@
      "related": [
       {
        "label": "Roofing Around Perry's I-69 Exit and Farm-Service Buildings",
-       "href": "/locations/perry"
+       "href": "/service-areas/perry"
       },
       {
        "label": "Portland's I-96 Manufacturers and River-Confluence Downtown Need Different Roof Plans",
-       "href": "/locations/portland"
+       "href": "/service-areas/portland"
       },
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Documenting Storm Damage for a Claim, Not Promising the Outcome",
@@ -1582,23 +1582,23 @@
      "related": [
       {
        "label": "Roofing for Stockbridge's Village Retail and Farm Equipment Buildings",
-       "href": "/locations/stockbridge"
+       "href": "/service-areas/stockbridge"
       },
       {
        "label": "Roofing for the Trucking and Small Industrial Buildings Around the I-96/I-69 Interchange",
-       "href": "/locations/watertown-township"
+       "href": "/service-areas/watertown-township"
       },
       {
        "label": "Waverly Road Retail and Office Roofs West of Downtown Lansing",
-       "href": "/locations/waverly"
+       "href": "/service-areas/waverly"
       },
       {
        "label": "Roofing for Webberville's Small Industrial Park and Grand River Corridor Buildings",
-       "href": "/locations/webberville"
+       "href": "/service-areas/webberville"
       },
       {
        "label": "Williamston's Grand River Avenue Retail Sits Close to Its Manufacturing Edge",
-       "href": "/locations/williamston"
+       "href": "/service-areas/williamston"
       },
       {
        "label": "TPO Roofing for Lansing's State and Auto-Plant Buildings",
@@ -1648,23 +1648,23 @@
      "related": [
       {
        "label": "What Laingsburg's Small Retail and Ag-Service Building Owners Should Expect From a Roof Inspection",
-       "href": "/locations/laingsburg"
+       "href": "/service-areas/laingsburg"
       },
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Meridian Mall Retail and Okemos Medical Office Roofs Have Different Tolerances",
-       "href": "/locations/okemos"
+       "href": "/service-areas/okemos"
       },
       {
        "label": "Stopping Water Before It Costs More Than the Roof Damage Itself",
@@ -1714,23 +1714,23 @@
      "related": [
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Roofing for Stockbridge's Village Retail and Farm Equipment Buildings",
-       "href": "/locations/stockbridge"
+       "href": "/service-areas/stockbridge"
       },
       {
        "label": "Waverly Road Retail and Office Roofs West of Downtown Lansing",
-       "href": "/locations/waverly"
+       "href": "/service-areas/waverly"
       },
       {
        "label": "Roofing for Webberville's Small Industrial Park and Grand River Corridor Buildings",
-       "href": "/locations/webberville"
+       "href": "/service-areas/webberville"
       },
       {
        "label": "PVC Roofing Where Exposure, Not Price, Should Drive the Decision",
@@ -1780,23 +1780,23 @@
      "related": [
       {
        "label": "Grand Ledge Splits Between Riverside Manufacturing and a Historic Main Street",
-       "href": "/locations/grand-ledge"
+       "href": "/service-areas/grand-ledge"
       },
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "What Laingsburg's Small Retail and Ag-Service Building Owners Should Expect From a Roof Inspection",
-       "href": "/locations/laingsburg"
+       "href": "/service-areas/laingsburg"
       },
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Stopping Water Before It Costs More Than the Roof Damage Itself",
@@ -1846,23 +1846,23 @@
      "related": [
       {
        "label": "Roofing Around Perry's I-69 Exit and Farm-Service Buildings",
-       "href": "/locations/perry"
+       "href": "/service-areas/perry"
       },
       {
        "label": "Portland's I-96 Manufacturers and River-Confluence Downtown Need Different Roof Plans",
-       "href": "/locations/portland"
+       "href": "/service-areas/portland"
       },
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "Legacy Gravel Roofs Still in Service Downtown and on Campus",
@@ -1912,23 +1912,23 @@
      "related": [
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Meridian Mall Retail and Okemos Medical Office Roofs Have Different Tolerances",
-       "href": "/locations/okemos"
+       "href": "/service-areas/okemos"
       },
       {
        "label": "Roofing Around Perry's I-69 Exit and Farm-Service Buildings",
-       "href": "/locations/perry"
+       "href": "/service-areas/perry"
       },
       {
        "label": "Standing Seam Metal for Distribution and Plant Buildings",
@@ -2004,7 +2004,7 @@
       },
       {
        "label": "Grand Ledge Splits Between Riverside Manufacturing and a Historic Main Street",
-       "href": "/locations/grand-ledge"
+       "href": "/service-areas/grand-ledge"
       },
       {
        "label": "Roof Work Over Buildings That Never Close",
@@ -2066,7 +2066,7 @@
       },
       {
        "label": "Meridian Mall Retail and Okemos Medical Office Roofs Have Different Tolerances",
-       "href": "/locations/okemos"
+       "href": "/service-areas/okemos"
       },
       {
        "label": "Roof Work Above a Production Line That Can't Stop for Us",
@@ -2120,7 +2120,7 @@
       },
       {
        "label": "Fowlerville's Industrial Park Roofs Answer to the Fairgrounds Calendar",
-       "href": "/locations/fowlerville"
+       "href": "/service-areas/fowlerville"
       },
       {
        "label": "Roofs Built to Match the Scale of a Regional Distribution Hub",
@@ -2182,7 +2182,7 @@
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Roofs Carrying More Refrigeration Than Most Retail Buildings Ever Will",
@@ -2240,7 +2240,7 @@
       },
       {
        "label": "Grand Ledge Splits Between Riverside Manufacturing and a Historic Main Street",
-       "href": "/locations/grand-ledge"
+       "href": "/service-areas/grand-ledge"
       },
       {
        "label": "Roof Decisions for Buildings Full of Businesses That Aren't Yours",
@@ -2530,7 +2530,7 @@
       },
       {
        "label": "State Office Towers and Century-Old Downtown Roofs Answer to Different Rules",
-       "href": "/locations/downtown-lansing"
+       "href": "/service-areas/downtown-lansing"
       },
       {
        "label": "Roofs Over Practices That Can't Reschedule a Full Waiting Room",
@@ -2588,7 +2588,7 @@
       },
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "Roofs Over Practices That Can't Reschedule a Full Waiting Room",
@@ -2654,7 +2654,7 @@
       },
       {
        "label": "Roofing for Bath Township's Growing Retail and MSU-Adjacent Buildings",
-       "href": "/locations/bath-township"
+       "href": "/service-areas/bath-township"
       },
       {
        "label": "Roof Work Above a Production Line That Can't Stop for Us",
@@ -2712,7 +2712,7 @@
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "Roofs Over Practices That Can't Reschedule a Full Waiting Room",
@@ -2774,7 +2774,7 @@
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Roof Decisions for Buildings Full of Businesses That Aren't Yours",
@@ -2836,7 +2836,7 @@
       },
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Roof Decisions for Buildings Full of Businesses That Aren't Yours",
@@ -2894,7 +2894,7 @@
       },
       {
        "label": "Grand Ledge Splits Between Riverside Manufacturing and a Historic Main Street",
-       "href": "/locations/grand-ledge"
+       "href": "/service-areas/grand-ledge"
       },
       {
        "label": "Keeping the Doors Open While the Roof Gets Fixed",
@@ -2948,7 +2948,7 @@
       },
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "Fitting a Roof Replacement Into a Ten-Week Summer",
@@ -3006,7 +3006,7 @@
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "Fitting a Roof Replacement Into a Ten-Week Summer",
@@ -3068,7 +3068,7 @@
       },
       {
        "label": "MSU Sets the Roofing Calendar for East Lansing's Grand River Corridor",
-       "href": "/locations/east-lansing"
+       "href": "/service-areas/east-lansing"
       },
       {
        "label": "Roofs Built to Match the Scale of a Regional Distribution Hub",
@@ -3122,7 +3122,7 @@
       },
       {
        "label": "Waverly Road Retail and Office Roofs West of Downtown Lansing",
-       "href": "/locations/waverly"
+       "href": "/service-areas/waverly"
       },
       {
        "label": "Roof Decisions for Buildings Full of Businesses That Aren't Yours",
@@ -3172,7 +3172,7 @@
       },
       {
        "label": "Honest Roofing Help for a Village the Size of Dansville",
-       "href": "/locations/dansville"
+       "href": "/service-areas/dansville"
       },
       {
        "label": "Roofs Built to Match the Scale of a Regional Distribution Hub",
@@ -3234,7 +3234,7 @@
       },
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "Roofs Over Practices That Can't Reschedule a Full Waiting Room",
@@ -3296,7 +3296,7 @@
       },
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "Roof Decisions for Buildings Full of Businesses That Aren't Yours",
@@ -3362,7 +3362,7 @@
       },
       {
        "label": "US-127 Turned DeWitt Township Into a Distribution Corridor, and the Roofs Show It",
-       "href": "/locations/dewitt-township"
+       "href": "/service-areas/dewitt-township"
       },
       {
        "label": "Roof Work Above a Production Line That Can't Stop for Us",
@@ -3434,7 +3434,7 @@
       },
       {
        "label": "Fowlerville's Industrial Park Roofs Answer to the Fairgrounds Calendar",
-       "href": "/locations/fowlerville"
+       "href": "/service-areas/fowlerville"
       },
       {
        "label": "Keeping the Doors Open While the Roof Gets Fixed",
@@ -3500,7 +3500,7 @@
       },
       {
        "label": "Eastwood Towne Center's Roofs Are One Property With a Dozen Different Tenants",
-       "href": "/locations/lansing-township"
+       "href": "/service-areas/lansing-township"
       },
       {
        "label": "Roofing Over People Who Are Home While We Work",
@@ -3566,7 +3566,7 @@
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "Fitting a Roof Replacement Into a Ten-Week Summer",
@@ -3632,7 +3632,7 @@
       },
       {
        "label": "Roofing for the Trucking and Small Industrial Buildings Around the I-96/I-69 Interchange",
-       "href": "/locations/watertown-township"
+       "href": "/service-areas/watertown-township"
       },
       {
        "label": "Fitting a Roof Replacement Into a Ten-Week Summer",
@@ -3667,7 +3667,7 @@
      "sections": [
       {
        "title": "",
-       "html": "<h1>Keeping Stores Open While the Roof Above Them Gets Fixed</h1>\n<p>From Meridian Mall in Okemos to Eastwood Towne Center and the big-box corridor along Cedar Street and Martin Luther King Boulevard, retail roofs here answer to one rule above the rest: the doors stay open. We work the schedule around the store's hours, not the other way around.</p>\n\n<h2>Roof Work That Never Shows Up on the Sales Floor</h2>\n<p>Overnight and off-hours scheduling is standard for big-box and mall-anchor stores, and we stage material and equipment away from customer parking and entrances so a shopper walking in has no idea a roof project is underway above them. Loading docks and back-of-house access get used first, before customer-facing areas ever come into play.</p>\n<p>Sound and vibration limits during business hours matter more at some stores than others, particularly retailers with quiet zones or a shared wall with another tenant. We confirm those limits with store management before scheduling any work that runs during open hours.</p>\n<p>We also plan around a store's own calendar rather than treating every week the same. A back-to-school push at a big-box store or a holiday buildup at a mall anchor is the wrong week to have a crew and a dumpster in the parking lot, and we schedule around those windows whenever a project's timeline gives us room to.</p>\n\n<h2>One Point of Contact for a Chain With Multiple Locations</h2>\n<p>A retail chain operator managing several stores across the region generally wants one roofer who already knows every location's roof history, not a different vendor called in fresh at each address. We track system type, install age, and warranty status per location so a regional facilities manager isn't starting from zero every time a store needs attention.</p>\n<p>Proposals come back in the same standardized format across every store, which lets a regional manager compare locations directly and prioritize budget the same way every time instead of reading five differently formatted bids.</p>\n\n<h2>Big-Box Roof Loads From Rooftop Signage and HVAC</h2>\n<p>Large-format retail roofs carry a heavy count of rooftop HVAC units plus illuminated pylon and rooftop signage structures, and every curb and penetration tied to that equipment is a spot we check first during inspection. These roofs fail at the equipment interfaces long before the open field of membrane shows any wear.</p>\n<p>Reflective, cool-roof coatings come up often on these buildings, and the benefit goes beyond the membrane itself. A more reflective roof surface also reduces in-store HVAC load during summer months, which shows up on the utility bill as well as the roof's condition.</p>\n\n<h2>Storm Response Across Multiple Store Locations at Once</h2>\n<p>A single hail or wind event can hit every store in a chain's regional footprint on the same afternoon, and we triage by which roofs show active leaks first, mobilizing tarp crews to protect merchandise at the locations that need it most urgently. Waiting to assess every store in order arriving at each in turn wastes time a leaking roof doesn't have.</p>\n<p>We provide a single consolidated damage report covering every affected location instead of five separate one-off reports, which is what a regional facilities team actually needs to manage a multi-store claim or repair plan.</p>\n\n<h2>Planning Roof Replacement Around a Remodel or Refresh Cycle</h2>\n<p>Chains often tie roof replacement to a broader store remodel or refresh cycle rather than replacing a roof in isolation. When we know a remodel is coming, we plan the roof scope to avoid conflicts with new rooftop equipment, updated signage, or exterior work happening on the same schedule, so the two projects don't end up working against each other.</p>\n<p>We also flag when a remodel's added rooftop equipment load changes what the existing roof structure can support, since a new HVAC package or additional signage curb sometimes calls for a structural check before it goes up, beyond the flashing detail alone. Catching that early keeps the roof scope and the remodel scope on the same timeline instead of one holding up the other.</p>\n\n<ul>\n<li>Enclosed mall anchor and inline stores</li>\n<li>Big-box and warehouse-club buildings</li>\n<li>Grocery-anchored strip centers</li>\n<li>Freestanding pad-site retail</li>\n<li>Power center and lifestyle center storefronts</li>\n</ul>\n\n<h2>What Regional Facilities Managers Want to Know</h2>\n<h3>Can roof work happen entirely after store hours?</h3>\n<p>Yes, in most cases. We schedule the disruptive phases overnight and confirm any exceptions with store management ahead of time.</p>\n<h3>Do you track roof history and warranty status separately for each of our locations?</h3>\n<p>Yes. We keep system type, install date, and warranty information on file per address so we're not starting from scratch every time a store calls.</p>\n<h3>How do you prioritize response when a storm hits multiple stores at once?</h3>\n<p>We triage by severity, sending crews first to locations with active leaks or structural concerns, then working through the rest of the affected footprint.</p>\n<h3>Can you protect merchandise below the roof deck while repairs are underway?</h3>\n<p>Emergency tarp and dry-in work is aimed specifically at protecting what's below the roof, and we coordinate with store staff on covering or relocating merchandise if needed. For grocery-anchored centers, that coordination often has to happen fast, since spoiled inventory below a leak is a bigger loss than the roof repair itself.</p>\n<h3>Will you send one consolidated report across all our locations instead of separate ones per store?</h3>\n<p>Yes, that's the standard format we use for chain accounts, since it's what a regional team actually needs to manage a multi-location repair plan.</p>"
+       "html": "<h1>Keeping Stores Open While the Roof Above Them Gets Fixed</h1>\n<p>From Meridian Mall in Okemos to Eastwood Towne Center and the big-box corridor along Cedar Street and Martin Luther King Boulevard, retail roofs here answer to one rule above the rest: the doors stay open. We work the schedule around the store's hours, not the other way around.</p>\n\n<h2>Roof Work That Never Shows Up on the Sales Floor</h2>\n<p>Overnight and off-hours scheduling is standard for big-box and mall-anchor stores, and we stage material and equipment away from customer parking and entrances so a shopper walking in has no idea a roof project is underway above them. Loading docks and back-of-house access get used first, before customer-facing areas ever come into play.</p>\n<p>Sound and vibration limits during business hours matter more at some stores than others, particularly retailers with quiet zones or a shared wall with another tenant. We confirm those limits with store management before scheduling any work that runs during open hours.</p>\n<p>We also plan around a store's own calendar rather than treating every week the same. A back-to-school push at a big-box store or a holiday buildup at a mall anchor is the wrong week to have a crew and a dumpster in the parking lot, and we schedule around those windows whenever a project's timeline gives us room to.</p>\n\n<h2>One Point of Contact for a Chain With Multiple Service Areas</h2>\n<p>A retail chain operator managing several stores across the region generally wants one roofer who already knows every location's roof history, not a different vendor called in fresh at each address. We track system type, install age, and warranty status per location so a regional facilities manager isn't starting from zero every time a store needs attention.</p>\n<p>Proposals come back in the same standardized format across every store, which lets a regional manager compare locations directly and prioritize budget the same way every time instead of reading five differently formatted bids.</p>\n\n<h2>Big-Box Roof Loads From Rooftop Signage and HVAC</h2>\n<p>Large-format retail roofs carry a heavy count of rooftop HVAC units plus illuminated pylon and rooftop signage structures, and every curb and penetration tied to that equipment is a spot we check first during inspection. These roofs fail at the equipment interfaces long before the open field of membrane shows any wear.</p>\n<p>Reflective, cool-roof coatings come up often on these buildings, and the benefit goes beyond the membrane itself. A more reflective roof surface also reduces in-store HVAC load during summer months, which shows up on the utility bill as well as the roof's condition.</p>\n\n<h2>Storm Response Across Multiple Store Service Areas at Once</h2>\n<p>A single hail or wind event can hit every store in a chain's regional footprint on the same afternoon, and we triage by which roofs show active leaks first, mobilizing tarp crews to protect merchandise at the locations that need it most urgently. Waiting to assess every store in order arriving at each in turn wastes time a leaking roof doesn't have.</p>\n<p>We provide a single consolidated damage report covering every affected location instead of five separate one-off reports, which is what a regional facilities team actually needs to manage a multi-store claim or repair plan.</p>\n\n<h2>Planning Roof Replacement Around a Remodel or Refresh Cycle</h2>\n<p>Chains often tie roof replacement to a broader store remodel or refresh cycle rather than replacing a roof in isolation. When we know a remodel is coming, we plan the roof scope to avoid conflicts with new rooftop equipment, updated signage, or exterior work happening on the same schedule, so the two projects don't end up working against each other.</p>\n<p>We also flag when a remodel's added rooftop equipment load changes what the existing roof structure can support, since a new HVAC package or additional signage curb sometimes calls for a structural check before it goes up, beyond the flashing detail alone. Catching that early keeps the roof scope and the remodel scope on the same timeline instead of one holding up the other.</p>\n\n<ul>\n<li>Enclosed mall anchor and inline stores</li>\n<li>Big-box and warehouse-club buildings</li>\n<li>Grocery-anchored strip centers</li>\n<li>Freestanding pad-site retail</li>\n<li>Power center and lifestyle center storefronts</li>\n</ul>\n\n<h2>What Regional Facilities Managers Want to Know</h2>\n<h3>Can roof work happen entirely after store hours?</h3>\n<p>Yes, in most cases. We schedule the disruptive phases overnight and confirm any exceptions with store management ahead of time.</p>\n<h3>Do you track roof history and warranty status separately for each of our locations?</h3>\n<p>Yes. We keep system type, install date, and warranty information on file per address so we're not starting from scratch every time a store calls.</p>\n<h3>How do you prioritize response when a storm hits multiple stores at once?</h3>\n<p>We triage by severity, sending crews first to locations with active leaks or structural concerns, then working through the rest of the affected footprint.</p>\n<h3>Can you protect merchandise below the roof deck while repairs are underway?</h3>\n<p>Emergency tarp and dry-in work is aimed specifically at protecting what's below the roof, and we coordinate with store staff on covering or relocating merchandise if needed. For grocery-anchored centers, that coordination often has to happen fast, since spoiled inventory below a leak is a bigger loss than the roof repair itself.</p>\n<h3>Will you send one consolidated report across all our locations instead of separate ones per store?</h3>\n<p>Yes, that's the standard format we use for chain accounts, since it's what a regional team actually needs to manage a multi-location repair plan.</p>"
       }
      ],
      "faqs": [],
@@ -3698,7 +3698,7 @@
       },
       {
        "label": "Eaton Rapids Still Roofs Like the Island City It Was Built To Be",
-       "href": "/locations/eaton-rapids"
+       "href": "/service-areas/eaton-rapids"
       },
       {
        "label": "Roofing Decisions for the Buildings the State of Michigan Runs Every Day",
@@ -3764,7 +3764,7 @@
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Roofing a Campus the Size of a Small City",
@@ -3830,7 +3830,7 @@
       },
       {
        "label": "Roofing for Bath Township's Growing Retail and MSU-Adjacent Buildings",
-       "href": "/locations/bath-township"
+       "href": "/service-areas/bath-township"
       },
       {
        "label": "Roof Work Above a Production Line That Can't Stop for Us",
@@ -3892,7 +3892,7 @@
       },
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "Roofs Built to Match the Scale of a Regional Distribution Hub",
@@ -3960,7 +3960,7 @@
       },
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "Roofs Built to Match the Scale of a Regional Distribution Hub",
@@ -4022,7 +4022,7 @@
       },
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "Roof Work Above a Production Line That Can't Stop for Us",
@@ -4088,7 +4088,7 @@
       },
       {
        "label": "Charlotte Carries Eaton County's Courthouse Roofs and Its Biggest Manufacturing Payroll",
-       "href": "/locations/charlotte"
+       "href": "/service-areas/charlotte"
       },
       {
        "label": "Keeping a Long-Span Warehouse Roof Ahead of the Next Michigan Winter",
@@ -4150,7 +4150,7 @@
       },
       {
        "label": "Holt's Roofs Are Smaller and the Repair-vs-Replace Math Is Tighter",
-       "href": "/locations/holt"
+       "href": "/service-areas/holt"
       },
       {
        "label": "Roofs Over Practices That Can't Reschedule a Full Waiting Room",
@@ -4216,7 +4216,7 @@
       },
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Keeping the Doors Open While the Roof Gets Fixed",
@@ -4278,7 +4278,7 @@
       },
       {
        "label": "Cedar Street and MLK Corridor Big-Box Roofs Age Differently Than People Assume",
-       "href": "/locations/south-lansing"
+       "href": "/service-areas/south-lansing"
       },
       {
        "label": "Roofs Over Practices That Can't Reschedule a Full Waiting Room",
@@ -4340,7 +4340,7 @@
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Roofing a Campus the Size of a Small City",
@@ -4406,7 +4406,7 @@
       },
       {
        "label": "The Dairy Plant Runs on a Roof Schedule St. Johns Can't Interrupt",
-       "href": "/locations/st-johns"
+       "href": "/service-areas/st-johns"
       },
       {
        "label": "Roof Decisions for Buildings Full of Businesses That Aren't Yours",
@@ -4478,7 +4478,7 @@
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Roofing Over the Supplier Shops and Plants Around Lansing's Auto Industry",
@@ -4524,7 +4524,7 @@
       },
       {
        "label": "Roofing Around Perry's I-69 Exit and Farm-Service Buildings",
-       "href": "/locations/perry"
+       "href": "/service-areas/perry"
       },
       {
        "label": "Roofing State, County, and City Buildings Through Michigan's Budget Calendar",
@@ -4570,7 +4570,7 @@
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "Roof Work Timed to the Academic Calendar, Not the Other Way Around",
@@ -4616,7 +4616,7 @@
       },
       {
        "label": "Delta Township Runs Two Different Roofs: Assembly-Plant Membrane and Big-Box Retail",
-       "href": "/locations/delta-township"
+       "href": "/service-areas/delta-township"
       },
       {
        "label": "Roof Documentation That Holds Up Through the Claims Process",
@@ -4662,7 +4662,7 @@
       },
       {
        "label": "Fowlerville's Industrial Park Roofs Answer to the Fairgrounds Calendar",
-       "href": "/locations/fowlerville"
+       "href": "/service-areas/fowlerville"
       },
       {
        "label": "Keeping Stores Open While the Roof Above Them Gets Fixed",
@@ -4708,7 +4708,7 @@
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "Keeping Stores Open While the Roof Above Them Gets Fixed",
@@ -4754,7 +4754,7 @@
       },
       {
        "label": "Roofing for the Trucking and Small Industrial Buildings Around the I-96/I-69 Interchange",
-       "href": "/locations/watertown-township"
+       "href": "/service-areas/watertown-township"
       },
       {
        "label": "Keeping Stores Open While the Roof Above Them Gets Fixed",
@@ -4800,7 +4800,7 @@
       },
       {
        "label": "Mason Roofs Range From the Ingham County Courthouse to Dart Container's Production Floors",
-       "href": "/locations/mason"
+       "href": "/service-areas/mason"
       },
       {
        "label": "Roofing Over the Supplier Shops and Plants Around Lansing's Auto Industry",
@@ -4846,7 +4846,7 @@
       },
       {
        "label": "What Owners of Dimondale's Small Commercial Buildings Should Ask Before Hiring a Roofer",
-       "href": "/locations/dimondale"
+       "href": "/service-areas/dimondale"
       },
       {
        "label": "Roof Documentation That Holds Up Through the Claims Process",
@@ -4892,7 +4892,7 @@
       },
       {
        "label": "Roofing Decisions for Potterville's Small Commercial Buildings",
-       "href": "/locations/potterville"
+       "href": "/service-areas/potterville"
       },
       {
        "label": "One Roofer Across a Multi-Building Portfolio Instead of Ten",
@@ -4938,7 +4938,7 @@
       },
       {
        "label": "Roofing for Leslie's Small Manufacturers and Downtown Storefronts",
-       "href": "/locations/leslie"
+       "href": "/service-areas/leslie"
       },
       {
        "label": "One Roofer Across a Multi-Building Portfolio Instead of Ten",
@@ -4984,7 +4984,7 @@
       },
       {
        "label": "Roofing for Bath Township's Growing Retail and MSU-Adjacent Buildings",
-       "href": "/locations/bath-township"
+       "href": "/service-areas/bath-township"
       },
       {
        "label": "Roofing Scope for General Contractors Building in the Capital Region",
@@ -5036,7 +5036,7 @@
       },
       {
        "label": "US-127 Turned DeWitt Township Into a Distribution Corridor, and the Roofs Show It",
-       "href": "/locations/dewitt-township"
+       "href": "/service-areas/dewitt-township"
       },
       {
        "label": "Keeping the Doors Open While the Roof Gets Fixed",
@@ -5082,7 +5082,7 @@
       },
       {
        "label": "Roofing for the Trucking and Small Industrial Buildings Around the I-96/I-69 Interchange",
-       "href": "/locations/watertown-township"
+       "href": "/service-areas/watertown-township"
       },
       {
        "label": "Fitting a Roof Replacement Into a Ten-Week Summer",
@@ -5128,7 +5128,7 @@
       },
       {
        "label": "Fowlerville's Industrial Park Roofs Answer to the Fairgrounds Calendar",
-       "href": "/locations/fowlerville"
+       "href": "/service-areas/fowlerville"
       },
       {
        "label": "Roof Work Above a Production Line That Can't Stop for Us",
@@ -5174,7 +5174,7 @@
       },
       {
        "label": "REO Town's Converted Brick Buildings Need a Different Roof Read Than Its New Construction",
-       "href": "/locations/reo-town"
+       "href": "/service-areas/reo-town"
       },
       {
        "label": "Fitting a Roof Replacement Into a Ten-Week Summer",
@@ -5220,7 +5220,7 @@
       },
       {
        "label": "Lake Lansing Humidity and School Campus Roofs Around Haslett",
-       "href": "/locations/haslett"
+       "href": "/service-areas/haslett"
       },
       {
        "label": "Roofs Built to Match the Scale of a Regional Distribution Hub",
@@ -5266,7 +5266,7 @@
       },
       {
        "label": "State Office Towers and Century-Old Downtown Roofs Answer to Different Rules",
-       "href": "/locations/downtown-lansing"
+       "href": "/service-areas/downtown-lansing"
       },
       {
        "label": "Roof Work Over Buildings That Never Close",
