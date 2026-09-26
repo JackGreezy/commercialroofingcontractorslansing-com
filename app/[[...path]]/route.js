@@ -1,3 +1,4 @@
+import { optimizeFleetImages } from "../../scripts/optimize-fleet-images.mjs";
 import { withLiveWeatherResponse } from "../../lib/live-weather-activation";
 import fs from "node:fs/promises";
 import path from "node:path";
@@ -42,6 +43,7 @@ async function readFirst(files) {
 }
 
 function decorate(html, request) {
+  html = optimizeFleetImages(html);
   if (!html) return html;
   let output = html.includes("/_vercel/insights/script.js")
     ? html

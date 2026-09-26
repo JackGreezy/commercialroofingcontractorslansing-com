@@ -1,0 +1,321 @@
+{
+  "domain": "commercialroofingcontractorslansing.com",
+  "images": {
+    "/ours/service-areas/commercial-roofing-contractors-lansing-mi-01.webp": {
+      "width": 1600,
+      "height": 1067,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/9a267388b50ad87c.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/b62657d7eb308a41.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/3cdde891a26702df.webp",
+          "width": 1240
+        }
+      ],
+      "backgroundVariants": [
+        {
+          "src": "/performance/fleet-images/eef963ea20425cc8.webp",
+          "density": 1,
+          "width": 1152
+        },
+        {
+          "src": "/performance/fleet-images/9cbfe9e616f78329.webp",
+          "density": 2,
+          "width": 1600
+        },
+        {
+          "src": "/performance/fleet-images/9cbfe9e616f78329.webp",
+          "density": 3,
+          "width": 1600
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-inspection-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1193,
+      "height": 671,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/aeea42a3ef56149b.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/a401c8ce18d6104c.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/6b09e076aa45f884.webp",
+          "width": 1193
+        }
+      ]
+    },
+    "/ours/services/commercial-roof-leak-repair-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1200,
+      "height": 900,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/9a166635b0b914a9.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/f7b3fb520eb70a25.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/ecdb8b6ba0086670.webp",
+          "width": 1200
+        }
+      ]
+    },
+    "/ours/services/commercial-reroofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/66e45adbdb06877e.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/230f358383f78b3c.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/ebf35b542f938e85.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/services/preventive-maintenance-programs-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1600,
+      "height": 1067,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/7331121b0774ad2c.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/ff1f4d7bafb66070.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/a253d20e74c4d11e.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/manufacturers/carlisle-syntec-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1440,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/aa13ba88e93a3533.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/1262f391a3130e15.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/3431215426011615.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/automotive-manufacturing-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 2400,
+      "height": 1798,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/56276c55df89a9a4.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/004e9f4d26d57d52.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/a8b6e95d3058af91.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/warehouse-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/21a6773a8adf6195.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/51d7ff6deca5e49b.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/16916acf5402c136.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/distribution-center-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/4d08d838a587e46b.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/3ff149db0b77f96b.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/bd97749edab31b9e.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/higher-education-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 2133,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/58bf34cdb518ea09.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/19d6aa8b2e9fa9cd.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/1d2ed2eac07a6914.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/hospital-surgery-center-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1600,
+      "height": 1047,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/6c935301130ee186.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/bcb72316a9a0add8.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/6ff2efa3c59467a6.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/medical-office-building-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1600,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/0acb66cad864960b.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/106b4b3f396b822f.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/e056e64f584f61c6.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/government-municipal-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1140,
+      "height": 855,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/4fe687bd2d1b2a27.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/4d020fcb46162abd.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/096f5144c78fcd67.webp",
+          "width": 1140
+        }
+      ]
+    },
+    "/ours/project-types/grocery-store-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1920,
+      "height": 1080,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/98a150ee75a82849.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/ee65360c05eef940.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/e8470750042cb0be.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/big-box-retail-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 1506,
+      "height": 1200,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/5af1856d0b90ffc9.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/6a00cf171971a3f2.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/aed7f9632d9e1513.webp",
+          "width": 1240
+        }
+      ]
+    },
+    "/ours/project-types/multifamily-apartment-roofing-commercial-roofing-contractors-lansing-mi.webp": {
+      "width": 960,
+      "height": 720,
+      "variants": [
+        {
+          "src": "/performance/fleet-images/e287ca79f7cd03f2.webp",
+          "width": 400
+        },
+        {
+          "src": "/performance/fleet-images/31c66bef76acf4d9.webp",
+          "width": 828
+        },
+        {
+          "src": "/performance/fleet-images/0b43aeff5553e8b0.webp",
+          "width": 960
+        }
+      ]
+    }
+  },
+  "lazyImages": [
+    "/ours/service-areas/commercial-roofing-contractors-lansing-mi-01.webp",
+    "/ours/services/commercial-roof-inspection-commercial-roofing-contractors-lansing-mi.webp",
+    "/ours/services/commercial-roof-leak-repair-commercial-roofing-contractors-lansing-mi.webp",
+    "/ours/services/commercial-reroofing-commercial-roofing-contractors-lansing-mi.webp",
+    "/ours/services/preventive-maintenance-programs-commercial-roofing-contractors-lansing-mi.webp",
+    "/ours/manufacturers/carlisle-syntec-commercial-roofing-contractors-lansing-mi.webp",
+    "/ours/project-types/automotive-manufacturing-roofing-commercial-roofing-contractors-lansing-mi.webp"
+  ],
+  "lazyBackgrounds": [],
+  "heroBackground": "/ours/service-areas/commercial-roofing-contractors-lansing-mi-01.webp"
+}
