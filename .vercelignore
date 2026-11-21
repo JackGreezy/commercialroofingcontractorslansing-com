@@ -17,3 +17,5 @@ public/*.html.ref
 !/scripts/check-ai-site.mjs
 !/scripts/install-roofing-growth.mjs
 !/scripts/ensure-roofing-home-locality.mjs
+!/data/roofing-performance.json
+!/scripts/install-roofing-performance.mjs

@@ -1,0 +1,65 @@
+{
+  "revision": "roofing-speed-v1",
+  "domain": "commercialroofingcontractorslansing.com",
+  "images": {
+    "/ours/manufacturers/johns-manville-commercial-roofing-contractors-lansing-mi.webp": "/performance/roofing-v1/ead8fb66ff8bcf9239ad3711.webp",
+    "/ours/project-types/grocery-store-roofing-commercial-roofing-contractors-lansing-mi.webp": "/performance/roofing-v1/d77dc1c45abe1f181b01dfe6.webp",
+    "/ours/roof-systems/epdm-black-commercial-roofing-contractors-lansing-mi.webp": "/performance/roofing-v1/2c07c8ec0fb18d31af6e1fa9.webp",
+    "/ours/roof-systems/tpo-60-mil-commercial-roofing-contractors-lansing-mi.webp": "/performance/roofing-v1/8c8914902dc64eb96b49ef93.webp",
+    "/ours/service-areas/commercial-roofing-contractors-lansing-mi-07.webp": "/performance/roofing-v1/a889e4b3252762beb38f08be.webp",
+    "/ours/services/pvc-roofing-commercial-roofing-contractors-lansing-mi.webp": "/performance/roofing-v1/af5c7fd4c1988f468ad780c7.webp"
+  },
+  "assets": [
+    {
+      "from": "/ours/manufacturers/johns-manville-commercial-roofing-contractors-lansing-mi.webp",
+      "to": "/performance/roofing-v1/ead8fb66ff8bcf9239ad3711.webp",
+      "width": 2048,
+      "height": 1366,
+      "beforeBytes": 232382,
+      "afterBytes": 166396
+    },
+    {
+      "from": "/ours/project-types/grocery-store-roofing-commercial-roofing-contractors-lansing-mi.webp",
+      "to": "/performance/roofing-v1/d77dc1c45abe1f181b01dfe6.webp",
+      "width": 1920,
+      "height": 1080,
+      "beforeBytes": 483064,
+      "afterBytes": 385860
+    },
+    {
+      "from": "/ours/roof-systems/epdm-black-commercial-roofing-contractors-lansing-mi.webp",
+      "to": "/performance/roofing-v1/2c07c8ec0fb18d31af6e1fa9.webp",
+      "width": 2048,
+      "height": 1365,
+      "beforeBytes": 148418,
+      "afterBytes": 110718
+    },
+    {
+      "from": "/ours/roof-systems/tpo-60-mil-commercial-roofing-contractors-lansing-mi.webp",
+      "to": "/performance/roofing-v1/8c8914902dc64eb96b49ef93.webp",
+      "width": 1440,
+      "height": 810,
+      "beforeBytes": 103698,
+      "afterBytes": 82464
+    },
+    {
+      "from": "/ours/service-areas/commercial-roofing-contractors-lansing-mi-07.webp",
+      "to": "/performance/roofing-v1/a889e4b3252762beb38f08be.webp",
+      "width": 1350,
+      "height": 900,
+      "beforeBytes": 170144,
+      "afterBytes": 135106
+    },
+    {
+      "from": "/ours/services/pvc-roofing-commercial-roofing-contractors-lansing-mi.webp",
+      "to": "/performance/roofing-v1/af5c7fd4c1988f468ad780c7.webp",
+      "width": 2000,
+      "height": 1250,
+      "beforeBytes": 78014,
+      "afterBytes": 59754
+    }
+  ],
+  "createdAt": "2026-11-21T03:40:02.535Z",
+  "fonts": [],
+  "fontFailures": []
+}
